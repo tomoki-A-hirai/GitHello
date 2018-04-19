@@ -1,6 +1,5 @@
 hello git world 
-git hub git hub 
 test message
-edited message
 update message 
 insert message
+test1 test2 test3
